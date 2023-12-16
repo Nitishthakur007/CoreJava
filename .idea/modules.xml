@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" filepath="$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortint/ByteShortint.iml" filepath="$PROJECT_DIR$/ByteShortint/ByteShortint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassChallange/ClassChallange.iml" filepath="$PROJECT_DIR$/ClassChallange/ClassChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compositio/Compositio.iml" filepath="$PROJECT_DIR$/Compositio/Compositio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor Challange/Constructor Challange.iml" filepath="$PROJECT_DIR$/Constructor Challange/Constructor Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallange/DayOfTheWeekChallange.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallange/DayOfTheWeekChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallangeIfElse/DayOfTheWeekChallangeIfElse.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallangeIfElse/DayOfTheWeekChallangeIfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitsumChallange/DigitsumChallange.iml" filepath="$PROJECT_DIR$/DigitsumChallange/DigitsumChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationChallange/EncapsulationChallange.iml" filepath="$PROJECT_DIR$/EncapsulationChallange/EncapsulationChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoorLoopExercise/FoorLoopExercise.iml" filepath="$PROJECT_DIR$/FoorLoopExercise/FoorLoopExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Forloop/Forloop.iml" filepath="$PROJECT_DIR$/Forloop/Forloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco_challange1/Fresco_challange1.iml" filepath="$PROJECT_DIR$/Fresco_challange1/Fresco_challange1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetDuration/GetDuration.iml" filepath="$PROJECT_DIR$/GetDuration/GetDuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasmapChallange/HasmapChallange.iml" filepath="$PROJECT_DIR$/HasmapChallange/HasmapChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfkeywordsAndcodeblocks/IfkeywordsAndcodeblocks.iml" filepath="$PROJECT_DIR$/IfkeywordsAndcodeblocks/IfkeywordsAndcodeblocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iheritance_Challange/Iheritance_Challange.iml" filepath="$PROJECT_DIR$/Iheritance_Challange/Iheritance_Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentialTraining2019/JavaEssentialTraining2019.iml" filepath="$PROJECT_DIR$/JavaEssentialTraining2019/JavaEssentialTraining2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingExercise/MethodOverloadingExercise.iml" filepath="$PROJECT_DIR$/MethodOverloadingExercise/MethodOverloadingExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxInputChallange/MinAndMaxInputChallange.iml" filepath="$PROJECT_DIR$/MinAndMaxInputChallange/MinAndMaxInputChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParsingValueFromString/ParsingValueFromString.iml" filepath="$PROJECT_DIR$/ParsingValueFromString/ParsingValueFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositiveNegativeZero/PositiveNegativeZero.iml" filepath="$PROJECT_DIR$/PositiveNegativeZero/PositiveNegativeZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallange/ReadingUserInputChallange.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallange/ReadingUserInputChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondAndMinuteChallange/SecondAndMinuteChallange.iml" filepath="$PROJECT_DIR$/SecondAndMinuteChallange/SecondAndMinuteChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExercise/SwitchExercise.iml" filepath="$PROJECT_DIR$/SwitchExercise/SwitchExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While&amp;DoWhile/While&amp;DoWhile.iml" filepath="$PROJECT_DIR$/While&amp;DoWhile/While&amp;DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition_Challange/composition_Challange.iml" filepath="$PROJECT_DIR$/composition_Challange/composition_Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaPrograms/javaPrograms.iml" filepath="$PROJECT_DIR$/javaPrograms/javaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemyprograms/udemyprograms.iml" filepath="$PROJECT_DIR$/udemyprograms/udemyprograms.iml" />
+    </modules>
+  </component>
+</project>
